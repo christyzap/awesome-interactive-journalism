@@ -5,11 +5,11 @@ An opinionated list of best practice examples of data journalism and visualizati
 ## What makes an outstanding project?
 
 1. It is well designed
-2. It uses web technology in an innovative way
+2. It uses web technology in a creative and innovative way
 3. It introduces a new form of storytelling or visualization
 4. It is based on costly data research or investigation
 5. It engages users in a new way
-6. It works well on all devices
+6. It works well on all forms of technology. 
 
 ## Maps
 
